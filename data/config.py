@@ -5,7 +5,7 @@
 # env.read_env()
 
 # .env fayl ichidan quyidagilarni o'qiymiz
-BOT_TOKEN = "769520006:AAFblmgbK8F_RRQj7HbTsrwbosU684wTcRM"  # Bot token
-ADMINS = "660433156"  # adminlar ro'yxati
+BOT_TOKEN = "769520006:AAFblmgbK8F_RRQj7HbTsrwbosU684"  # Bot token
+ADMINS = "66043"  # adminlar ro'yxati
 IP =  "localhost"  # Xosting ip manzili
-CHANNELS = ["-1001204432787"]
+CHANNELS = ["-10012044"]
